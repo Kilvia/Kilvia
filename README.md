@@ -15,7 +15,7 @@ My other passions are cooking, languages, painting, solving problems, and dogs.
 
 ## GitHub Stats
 
-[![Kilvia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilvia&layout=compact)](https://github.com/kilvia/github-readme-stats)
+[![Kilvia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilvia&layout=compact)](https://github.com/Kilvia/github-readme-stats)
 
 ## What I use
 <div style="display: inline_block"><br/>
